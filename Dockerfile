@@ -1,5 +1,5 @@
 # Usa a imagem oficial do .NET SDK para compilar
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /app
 
 # Copia os arquivos do projeto e restaura as dependências
@@ -11,7 +11,7 @@ COPY . ./
 RUN dotnet publish -c Release -o /out
 
 # Usa a imagem base oficial do Google Cloud Functions para execução
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS runtime
 WORKDIR /app
 COPY --from=build /out .
 

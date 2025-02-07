@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rpnet.teamsalert.function")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c55cfd0cb9362cee496f68214a896c7a615b0265")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7113f643dc240217f811ee6174538c61e378f75")]
 [assembly: System.Reflection.AssemblyProductAttribute("rpnet.teamsalert.function")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rpnet.teamsalert.function")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
