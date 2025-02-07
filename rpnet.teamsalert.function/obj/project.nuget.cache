@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rZCQgQbnrDM=",
+  "dgSpecHash": "apCUfc9T560=",
   "success": true,
   "projectFilePath": "C:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj",
   "expectedPackageFiles": [
@@ -110,11 +110,7 @@
     "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\ulid\\1.3.4\\ulid.1.3.4.nupkg.sha512",
-    "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
-    "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
-    "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
+    "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
   "logs": []
 }
