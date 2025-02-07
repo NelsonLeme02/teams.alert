@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Copia os arquivos do projeto e restaura as dependências
-COPY *.csproj ./
+COPY rpnet.teamsalert.function/rpnet.teamsalert.function.csproj ./
 RUN dotnet restore
 
 # Copia o código fonte e compila
@@ -11,7 +11,7 @@ COPY . ./
 RUN dotnet publish -c Release -o /out
 
 # Usa a imagem base oficial do Google Cloud Functions para execução
-FROM gcr.io/google-appengine/aspnetcore:8.0 AS runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
 COPY --from=build /out .
 
