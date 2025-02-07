@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj": {}
+    "C:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj": {}
   },
   "projects": {
-    "c:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj": {
+    "C:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj",
+        "projectUniqueName": "C:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj",
         "projectName": "rpnet.teamsalert.function",
-        "projectPath": "c:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj",
+        "projectPath": "C:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj",
         "packagesPath": "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\obj\\",
+        "outputPath": "C:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NelsonGabrielCostaLe\\AppData\\Roaming\\NuGet\\NuGet.Config",

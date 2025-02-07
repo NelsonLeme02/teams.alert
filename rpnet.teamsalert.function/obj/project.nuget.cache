@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Decv2kBOtn4=",
+  "dgSpecHash": "rZCQgQbnrDM=",
   "success": true,
-  "projectFilePath": "c:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj",
+  "projectFilePath": "C:\\Users\\NelsonGabrielCostaLe\\source\\repos\\teams.alert\\rpnet.teamsalert.function\\rpnet.teamsalert.function.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\cloudnative.cloudevents\\2.7.1\\cloudnative.cloudevents.2.7.1.nupkg.sha512",
     "C:\\Users\\NelsonGabrielCostaLe\\.nuget\\packages\\cloudnative.cloudevents.aspnetcore\\2.7.1\\cloudnative.cloudevents.aspnetcore.2.7.1.nupkg.sha512",
